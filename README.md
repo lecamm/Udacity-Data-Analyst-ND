@@ -4,7 +4,8 @@ For each project, the following items can be found:
  - Jupyter notebook with the code and results from the analysis
  - the data used for the analysis
  - an html file of the notebook presenting the code and results from the analysis
-Th following projects are presented in the repository: 
+ 
+The following projects are presented in the repository: 
  - Project1: Exploring weather trends
  - Project2: Evolution of the number of female death by cancer in the last decades using GapMinder Dataset
  - Project3: Analysis for e-commerce website on whether to implement change to a webpage using statistical A/B test
