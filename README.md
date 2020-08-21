@@ -10,4 +10,4 @@ The following projects are presented in the repository:
  - Project2: Evolution of the number of female death by cancer in the last decades using GapMinder Dataset
  - Project3: Analysis for e-commerce website on whether to implement change to a webpage using statistical A/B test
  - Project4: Data wrangling project on Twitter data from WeRateDogs analysing tweets from users rating pictures of dogs
- - Project5: Exploration of airline delays in the United States
+ - [Project5: Exploration of airline delays in the United States](https://htmlpreview.github.io/?https://github.com/lecamm/Udacity-Data-Analyst-ND/blob/master/Project5/exploration_airline_delays.html)
